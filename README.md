@@ -23,3 +23,4 @@ Top 5 Best-Selling and Worst-Selling Pizzas
 The interactive dashboard enabled real-time filtering, trend spotting, and easy comparison of categories and time periods.
 This project demonstrated end-to-end BI skills including data cleaning, modeling, DAX, and compelling data storytelling.
 
+ <a href="https://github.com/amitbhowate/Power-BI-Project-/blob/main/Screenshot%202025-05-19%20010230.png"> Dashboard1
