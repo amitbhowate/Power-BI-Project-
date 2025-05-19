@@ -24,3 +24,31 @@ The interactive dashboard enabled real-time filtering, trend spotting, and easy 
 This project demonstrated end-to-end BI skills including data cleaning, modeling, DAX, and compelling data storytelling.
 
  <a href="https://github.com/amitbhowate/Power-BI-Project-/blob/main/Screenshot%202025-05-19%20010230.png"> Dashboard1
+ <a href ="https://github.com/amitbhowate/Power-BI-Project-/blob/main/Screenshot%202025-05-19%20010027.png">Dashboard2
+
+## Process 
+The project followed a complete data analysis lifecycle:
+
+Business Understanding: Identified key business questions such as peak sales periods(weedays and Monthly), bottom\top-selling pizzas, and revenue by category.
+
+Data Understanding: Explored the dataset to assess structure, completeness, and potential inconsistencies.
+
+Data Preprocessing & Cleaning:
+
+Transformed raw data using Power Query.
+
+Handled missing values, removed duplicates, standardized column names, and ensured consistency.
+
+Data Visualization:
+
+Created dynamic charts, slicers, and KPI cards to present sales performance by date, category, size, and location.
+
+Implemented DAX measures for custom metrics like total revenue, average order value, and daily sales trends.
+
+Delivered an interactive Power BI dashboard allowing users to filter data in real-time and gain key insights instantly.
+
+ ## Dasboard  
+![Screenshot 2025-05-19 010230](https://github.com/user-attachments/assets/443951f5-c5b5-4cf7-8491-a71cbd142031)
+![Screenshot 2025-05-19 015945](https://github.com/user-attachments/assets/6c832629-55aa-4c0e-b7da-11bc237c1313)
+
+
