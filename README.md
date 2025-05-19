@@ -52,4 +52,26 @@ Delivered an interactive Power BI dashboard allowing users to filter data in rea
 ![Screenshot 2025-05-19 010230](https://github.com/user-attachments/assets/443951f5-c5b5-4cf7-8491-a71cbd142031)
 ![Screenshot 2025-05-19 015945](https://github.com/user-attachments/assets/6c832629-55aa-4c0e-b7da-11bc237c1313)
 
+# Project insight
+1.Daily Trends 
+  Friday gave more order comparative with saturday and sunday  
+  In July performance are best but we need to check sep,oct and Dec orders. 
+  
+2.Percentage Of Pizza Category
+Classic Pizza Earn are higher in all those Category
 
+Percentage Of Pizza Size
+Large size got more earn  compare to other pizza_size 
+Classic sold highest no. pizza in all pizza_category
+
+3.Good Performance 
+The Barbecue chicken pizza is perform Good  at all segemnt eg:
+Pizza order  ,Pizza_Revenue and Pizza Sold by qty
+
+4.Worst Performance 
+The Brie carre Pizza is perform Worst  at all segemnt eg:
+Pizza order  ,Pizza_Revenue and Pizza Sold by qty
+
+
+
+      
